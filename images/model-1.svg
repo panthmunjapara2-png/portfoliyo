@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="m1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#081020" />
+      <stop offset="100%" stop-color="#1b2945" />
+    </linearGradient>
+    <linearGradient id="m2" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5bd0ff" />
+      <stop offset="100%" stop-color="#a38cff" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="40" fill="url(#m1)" />
+  <path d="M300 620 C360 420 520 380 610 520 C710 660 900 580 940 360" stroke="#72c3ff" stroke-width="28" fill="none" stroke-linecap="round" />
+  <circle cx="620" cy="420" r="150" fill="#5286ff" opacity="0.85" />
+  <rect x="150" y="180" width="340" height="280" rx="32" fill="#16233c" opacity="0.72" />
+  <text x="50%" y="68%" text-anchor="middle" fill="#f3f8ff" font-family="Inter, sans-serif" font-size="72" font-weight="700">3D Model 1</text>
+  <text x="50%" y="77%" text-anchor="middle" fill="#b2c8ea" font-family="Inter, sans-serif" font-size="36" font-weight="500">Hard-surface asset study</text>
+</svg>
